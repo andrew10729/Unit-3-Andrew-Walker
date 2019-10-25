@@ -17,7 +17,7 @@ public class winPercentage {
   }
   while(games<won){
     System.out.println("Correctly Enter Number of Games Played");
-    double games = Scan.nextInt();
+    
 
   }
 
